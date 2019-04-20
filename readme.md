@@ -18,9 +18,3 @@ The corresponding MATLAB codes are **LODCO_based_e_Greedy.m** and **LODCO_Based_
 `PG-SAA` is the algorithm proposed in paper "A Sample Average Approximation-Based Parallel Algorithm for Application Placement in Edge Computing Systems", which can be found at https://ieeexplore.ieee.org/document/8360329/.
 
 The corresponding MATLAB directory is "PG-SAA".
-
-## Cross-edge Computation Offloading (CCO)
-`Cross-edge Computation Offloading (CCO) Algorithm` is an computation offloading algorithm proposed recently for multi-user multi-server MEC systems. Details 
-can be found at https://github.com/NarcissusHliangZhao/Implementation-of-MEC-papers/tree/master/CCO. 
-
-The corresponding Python directory is "CCO".
